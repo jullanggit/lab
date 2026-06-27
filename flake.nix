@@ -18,7 +18,9 @@
               pandas
               matplotlib
               scikit-learn
-	          ipywidgets
+	      ipywidgets
+              plotly
+	      ipympl
             ]))
           ];
 
